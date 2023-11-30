@@ -1,0 +1,6 @@
+projectKey=curso-fiap-dev-sec
+serverUrl=http://localhost:9000
+serverVersion=10.3.0.82913
+dashboardUrl=http://localhost:9000/dashboard?id=curso-fiap-dev-sec
+ceTaskId=AYwijpY9VRocrcc3GrF3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYwijpY9VRocrcc3GrF3
