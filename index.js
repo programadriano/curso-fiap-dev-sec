@@ -30,6 +30,7 @@ const stockSchema = new Schema({
 
 const StockModel = mongoose.model('Stock', stockSchema);
 
+
 // Rota para criar um novo registro de estoque
 app.post('/estoque', async (req, res) => {
   try {
